@@ -337,11 +337,113 @@ rivanna["a_100_project"][50] = \
 """
 rivanna["a_100_project"][60] = \ 
 """
-put the csv lines for the result here
++------------------------------------------------------------------+----------+-----------+
+| Name                                                             | Status   |      Time |
+|------------------------------------------------------------------+----------+-----------|
+| total                                                            | ok       | 54948.3   |
+| data head setup                                                  | ok       |  2453.62  |
+| legal sampling location                                          | ok       |  1240.7   |
+| RunTFTCustomVersion tft only                                     | ok       |     0.001 |
+| RunTFTCustomVersion print                                        | ok       |     0.37  |
+| RunTFTCustomVersion A                                            | ok       | 51776.9   |
+| RunTFTCustomVersion init                                         | ok       |     3.368 |
+| RunTFTCustomVersion restore                                      | ok       |     0     |
+| RunTFTCustomVersion analysis                                     | ok       |     0     |
+| RunTFTCustomVersion train                                        | ok       | 38685.5   |
+| RunTFTCustomVersion bestfit                                      | ok       | 13087.9   |
+| RunTFTCustomVersion bestfit FTTrainingMonitor                    | ok       |     0.001 |
+| RunTFTCustomVersion bestfit Checkpointfinalstate                 | ok       |     1.761 |
+| RunTFTCustomVersion bestfit summary                              | ok       |     0.075 |
+| RunTFTCustomVersion bestfit network summary                      | ok       |     0.159 |
+| RunTFTCustomVersion bestfit TFTLSTMEncoder summary               | ok       |     0.01  |
+| RunTFTCustomVersion bestfit TFTLSTMDecoder summary               | ok       |     0.01  |
+| RunTFTCustomVersion bestfit Network attn layer summary           | ok       |     0.032 |
+| RunTFTCustomVersion bestfit Network attn layer attention summary | ok       |     0.011 |
+| RunTFTCustomVersion bestfit finalize                             | ok       | 13085.8   |
+| label1                                                           | ok       |     0     |
+| label2                                                           | ok       |     0.002 |
+| label3                                                           | ok       |     0.103 |
++------------------------------------------------------------------+----------+-----------+
+
+# csv,timer,status,time
+# csv,total,ok,54948.286
+# csv,data head setup,ok,2453.625
+# csv,legal sampling location,ok,1240.702
+# csv,RunTFTCustomVersion tft only,ok,0.001
+# csv,RunTFTCustomVersion print,ok,0.37
+# csv,RunTFTCustomVersion A,ok,51776.876
+# csv,RunTFTCustomVersion init,ok,3.368
+# csv,RunTFTCustomVersion restore,ok,0.0
+# csv,RunTFTCustomVersion analysis,ok,0.0
+# csv,RunTFTCustomVersion train,ok,38685.526
+# csv,RunTFTCustomVersion bestfit,ok,13087.894
+# csv,RunTFTCustomVersion bestfit FTTrainingMonitor,ok,0.001
+# csv,RunTFTCustomVersion bestfit Checkpointfinalstate,ok,1.761
+# csv,RunTFTCustomVersion bestfit summary,ok,0.075
+# csv,RunTFTCustomVersion bestfit network summary,ok,0.159
+# csv,RunTFTCustomVersion bestfit TFTLSTMEncoder summary,ok,0.01
+# csv,RunTFTCustomVersion bestfit TFTLSTMDecoder summary,ok,0.01
+# csv,RunTFTCustomVersion bestfit Network attn layer summary,ok,0.032
+# csv,RunTFTCustomVersion bestfit Network attn layer attention summary,ok,0.011
+# csv,RunTFTCustomVersion bestfit finalize,ok,13085.817
+# csv,label1,ok,0.0
+# csv,label2,ok,0.002
+# csv,label3,ok,0.103
 """
 rivanna["a_100_project"][66] = \ 
 """
-put the csv lines for the result here
++------------------------------------------------------------------+----------+-----------+
+| Name                                                             | Status   |      Time |
+|------------------------------------------------------------------+----------+-----------|
+| total                                                            | ok       | 57766.2   |
+| data head setup                                                  | ok       |  2432.04  |
+| legal sampling location                                          | ok       |  1224.52  |
+| RunTFTCustomVersion tft only                                     | ok       |     0.001 |
+| RunTFTCustomVersion print                                        | ok       |     0.337 |
+| RunTFTCustomVersion A                                            | ok       | 54611     |
+| RunTFTCustomVersion init                                         | ok       |     3.147 |
+| RunTFTCustomVersion restore                                      | ok       |     0     |
+| RunTFTCustomVersion analysis                                     | ok       |     0     |
+| RunTFTCustomVersion train                                        | ok       | 41716.3   |
+| RunTFTCustomVersion bestfit                                      | ok       | 12891.5   |
+| RunTFTCustomVersion bestfit FTTrainingMonitor                    | ok       |     0.001 |
+| RunTFTCustomVersion bestfit Checkpointfinalstate                 | ok       |     1.184 |
+| RunTFTCustomVersion bestfit summary                              | ok       |     0.074 |
+| RunTFTCustomVersion bestfit network summary                      | ok       |     0.16  |
+| RunTFTCustomVersion bestfit TFTLSTMEncoder summary               | ok       |     0.01  |
+| RunTFTCustomVersion bestfit TFTLSTMDecoder summary               | ok       |     0.01  |
+| RunTFTCustomVersion bestfit Network attn layer summary           | ok       |     0.032 |
+| RunTFTCustomVersion bestfit Network attn layer attention summary | ok       |     0.011 |
+| RunTFTCustomVersion bestfit finalize                             | ok       | 12890     |
+| label1                                                           | ok       |     0     |
+| label2                                                           | ok       |     0.002 |
+| label3                                                           | ok       |     0.1   |
++------------------------------------------------------------------+----------+-----------+
+
+# csv,timer,status,time
+# csv,total,ok,57766.206
+# csv,data head setup,ok,2432.039
+# csv,legal sampling location,ok,1224.524
+# csv,RunTFTCustomVersion tft only,ok,0.001
+# csv,RunTFTCustomVersion print,ok,0.337
+# csv,RunTFTCustomVersion A,ok,54611.009
+# csv,RunTFTCustomVersion init,ok,3.147
+# csv,RunTFTCustomVersion restore,ok,0.0
+# csv,RunTFTCustomVersion analysis,ok,0.0
+# csv,RunTFTCustomVersion train,ok,41716.287
+# csv,RunTFTCustomVersion bestfit,ok,12891.471
+# csv,RunTFTCustomVersion bestfit FTTrainingMonitor,ok,0.001
+# csv,RunTFTCustomVersion bestfit Checkpointfinalstate,ok,1.184
+# csv,RunTFTCustomVersion bestfit summary,ok,0.074
+# csv,RunTFTCustomVersion bestfit network summary,ok,0.16
+# csv,RunTFTCustomVersion bestfit TFTLSTMEncoder summary,ok,0.01
+# csv,RunTFTCustomVersion bestfit TFTLSTMDecoder summary,ok,0.01
+# csv,RunTFTCustomVersion bestfit Network attn layer summary,ok,0.032
+# csv,RunTFTCustomVersion bestfit Network attn layer attention summary,ok,0.011
+# csv,RunTFTCustomVersion bestfit finalize,ok,12889.971
+# csv,label1,ok,0.0
+# csv,label2,ok,0.002
+# csv,label3,ok,0.1
 """
 rivanna["a_100_project"][70] = \ 
 """
@@ -683,11 +785,113 @@ rivanna["v_100_localscratch"][50] = \
 """
 rivanna["v_100_localscratch"][60] = \ 
 """
-put the csv lines for the result here
++------------------------------------------------------------------+----------+-----------+
+| Name                                                             | Status   |      Time |
+|------------------------------------------------------------------+----------+-----------|
+| total                                                            | ok       | 60772.5   |
+| data head setup                                                  | ok       |  2927.21  |
+| legal sampling location                                          | ok       |  1470.57  |
+| RunTFTCustomVersion tft only                                     | ok       |     0.001 |
+| RunTFTCustomVersion print                                        | ok       |     0.342 |
+| RunTFTCustomVersion A                                            | ok       | 57155.9   |
+| RunTFTCustomVersion init                                         | ok       |     2.729 |
+| RunTFTCustomVersion restore                                      | ok       |     0     |
+| RunTFTCustomVersion analysis                                     | ok       |     0     |
+| RunTFTCustomVersion train                                        | ok       | 43805.2   |
+| RunTFTCustomVersion bestfit                                      | ok       | 13347.9   |
+| RunTFTCustomVersion bestfit FTTrainingMonitor                    | ok       |     0.001 |
+| RunTFTCustomVersion bestfit Checkpointfinalstate                 | ok       |     1.41  |
+| RunTFTCustomVersion bestfit summary                              | ok       |     0.091 |
+| RunTFTCustomVersion bestfit network summary                      | ok       |     0.204 |
+| RunTFTCustomVersion bestfit TFTLSTMEncoder summary               | ok       |     0.013 |
+| RunTFTCustomVersion bestfit TFTLSTMDecoder summary               | ok       |     0.013 |
+| RunTFTCustomVersion bestfit Network attn layer summary           | ok       |     0.04  |
+| RunTFTCustomVersion bestfit Network attn layer attention summary | ok       |     0.014 |
+| RunTFTCustomVersion bestfit finalize                             | ok       | 13346.1   |
+| label1                                                           | ok       |     0     |
+| label2                                                           | ok       |     0.002 |
+| label3                                                           | ok       |     0.087 |
++------------------------------------------------------------------+----------+-----------+
+
+# csv,timer,status,time
+# csv,total,ok,60772.528
+# csv,data head setup,ok,2927.211
+# csv,legal sampling location,ok,1470.568
+# csv,RunTFTCustomVersion tft only,ok,0.001
+# csv,RunTFTCustomVersion print,ok,0.342
+# csv,RunTFTCustomVersion A,ok,57155.88
+# csv,RunTFTCustomVersion init,ok,2.729
+# csv,RunTFTCustomVersion restore,ok,0.0
+# csv,RunTFTCustomVersion analysis,ok,0.0
+# csv,RunTFTCustomVersion train,ok,43805.19
+# csv,RunTFTCustomVersion bestfit,ok,13347.895
+# csv,RunTFTCustomVersion bestfit FTTrainingMonitor,ok,0.001
+# csv,RunTFTCustomVersion bestfit Checkpointfinalstate,ok,1.41
+# csv,RunTFTCustomVersion bestfit summary,ok,0.091
+# csv,RunTFTCustomVersion bestfit network summary,ok,0.204
+# csv,RunTFTCustomVersion bestfit TFTLSTMEncoder summary,ok,0.013
+# csv,RunTFTCustomVersion bestfit TFTLSTMDecoder summary,ok,0.013
+# csv,RunTFTCustomVersion bestfit Network attn layer summary,ok,0.04
+# csv,RunTFTCustomVersion bestfit Network attn layer attention summary,ok,0.014
+# csv,RunTFTCustomVersion bestfit finalize,ok,13346.088
+# csv,label1,ok,0.0
+# csv,label2,ok,0.002
+# csv,label3,ok,0.087
 """
 rivanna["v_100_localscratch"][66] = \ 
 """
-put the csv lines for the result here
++------------------------------------------------------------------+----------+-----------+
+| Name                                                             | Status   |      Time |
+|------------------------------------------------------------------+----------+-----------|
+| total                                                            | ok       | 65822.5   |
+| data head setup                                                  | ok       |  2888.43  |
+| legal sampling location                                          | ok       |  1449.81  |
+| RunTFTCustomVersion tft only                                     | ok       |     0.001 |
+| RunTFTCustomVersion print                                        | ok       |     0.345 |
+| RunTFTCustomVersion A                                            | ok       | 62237.6   |
+| RunTFTCustomVersion init                                         | ok       |     2.722 |
+| RunTFTCustomVersion restore                                      | ok       |     0     |
+| RunTFTCustomVersion analysis                                     | ok       |     0     |
+| RunTFTCustomVersion train                                        | ok       | 48762.4   |
+| RunTFTCustomVersion bestfit                                      | ok       | 13472.4   |
+| RunTFTCustomVersion bestfit FTTrainingMonitor                    | ok       |     0.001 |
+| RunTFTCustomVersion bestfit Checkpointfinalstate                 | ok       |     1.392 |
+| RunTFTCustomVersion bestfit summary                              | ok       |     0.09  |
+| RunTFTCustomVersion bestfit network summary                      | ok       |     0.204 |
+| RunTFTCustomVersion bestfit TFTLSTMEncoder summary               | ok       |     0.014 |
+| RunTFTCustomVersion bestfit TFTLSTMDecoder summary               | ok       |     0.013 |
+| RunTFTCustomVersion bestfit Network attn layer summary           | ok       |     0.04  |
+| RunTFTCustomVersion bestfit Network attn layer attention summary | ok       |     0.014 |
+| RunTFTCustomVersion bestfit finalize                             | ok       | 13470.6   |
+| label1                                                           | ok       |     0     |
+| label2                                                           | ok       |     0.002 |
+| label3                                                           | ok       |     0.088 |
++------------------------------------------------------------------+----------+-----------+
+
+# csv,timer,status,time
+# csv,total,ok,65822.53
+# csv,data head setup,ok,2888.427
+# csv,legal sampling location,ok,1449.805
+# csv,RunTFTCustomVersion tft only,ok,0.001
+# csv,RunTFTCustomVersion print,ok,0.345
+# csv,RunTFTCustomVersion A,ok,62237.622
+# csv,RunTFTCustomVersion init,ok,2.722
+# csv,RunTFTCustomVersion restore,ok,0.0
+# csv,RunTFTCustomVersion analysis,ok,0.0
+# csv,RunTFTCustomVersion train,ok,48762.419
+# csv,RunTFTCustomVersion bestfit,ok,13472.376
+# csv,RunTFTCustomVersion bestfit FTTrainingMonitor,ok,0.001
+# csv,RunTFTCustomVersion bestfit Checkpointfinalstate,ok,1.392
+# csv,RunTFTCustomVersion bestfit summary,ok,0.09
+# csv,RunTFTCustomVersion bestfit network summary,ok,0.204
+# csv,RunTFTCustomVersion bestfit TFTLSTMEncoder summary,ok,0.014
+# csv,RunTFTCustomVersion bestfit TFTLSTMDecoder summary,ok,0.013
+# csv,RunTFTCustomVersion bestfit Network attn layer summary,ok,0.04
+# csv,RunTFTCustomVersion bestfit Network attn layer attention summary,ok,0.014
+# csv,RunTFTCustomVersion bestfit finalize,ok,13470.586
+# csv,label1,ok,0.0
+# csv,label2,ok,0.002
+# csv,label3,ok,0.088
 """
 rivanna["v_100_localscratch"][70] = \ 
 """
